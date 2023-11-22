@@ -23,5 +23,24 @@ Firstly i downloaded the classifiers and got all the resources & folder linedup,
 
 And that was all that took me to create this CV2 project</p>
 
+
+<h3>What is there in this repo?</h3>
+<p><br>
+=>In The resources folder you can se the classifers
+=>In the Test folder you can see the Live Demonstration of the script
+=> Main.py</p>
+
+<h3>Usage and Requirements</h3>
+
+```python
+Download requirements using pip:
+pip install python-opencv
+pip install time
+pip install os
+
+usage:
+> python main.py
+```
+
 <h3>That was all the Tasks i did in the ML section one can open The folder and read the usage of function</h3>
 <h2>By Prithvi Srivastava</h2>
