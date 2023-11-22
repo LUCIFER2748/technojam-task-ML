@@ -23,7 +23,8 @@ Firstly i downloaded the classifiers and got all the resources & folder linedup,
 
 And that was all that took me to create this CV2 project</p>
 
-
+<h2>Google collab Link</h2>
+<h3>Link: https://colab.research.google.com/drive/1eGlt0n8jl_5NEWgYqP1PD_uPaJUKIOd5?usp=sharing</h3>
 <h3>What is there in this repo?</h3>
 <p><br>
 =>In The resources folder you can se the classifers
